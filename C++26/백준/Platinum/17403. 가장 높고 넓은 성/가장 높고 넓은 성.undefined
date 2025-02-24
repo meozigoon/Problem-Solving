@@ -68,8 +68,7 @@ void convex(vector<tuple<int, int, int>>& p, const int& n)
 			convex(next, next.size());
 		}
 	}
-	else
-		return;
+	return;
 }
 
 int main(void)

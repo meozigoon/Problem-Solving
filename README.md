@@ -2,9 +2,8 @@
 
 # Baekjoon Online Judge
 
-**백준 문제 풀이 저장소**
+**PS 문제 풀이 저장소**
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeozigoon%2FBOJ&count_bg=%2333BBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/meozigoon/BOJ?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/meozigoon/BOJ?style=flat-square)
 

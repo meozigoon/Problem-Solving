@@ -12,5 +12,5 @@
 
 코드를 그대로 복붙하는 것은 자제 부탁드립니다.
 
-[![Notion](https://img.shields.io/badge/Algorithm%20List-FFFFFF.svg?&style=for-the-badge&logo=Notion&logoColor=black)](https://stupendous-helenium-279.notion.site/1175e5388e2f8076aeb7f11138b5fb37?v=1175e5388e2f81008fbd000c8a8b4e4b)
+[Algorithm List](https://meozigoon.github.io/algorithms/Algorithm%20Study%201175e5388e2f8076aeb7f11138b5fb37.html)
 </div>

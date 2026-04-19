@@ -1,6 +1,6 @@
 <div align="center">
 
-# Baekjoon Online Judge
+# Baekjoon Online Judge / 프로그래머스
 
 **PS 문제 풀이 저장소**
 

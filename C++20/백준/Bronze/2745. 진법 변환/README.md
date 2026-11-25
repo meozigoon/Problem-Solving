@@ -1,6 +1,6 @@
 # [Bronze II] 진법 변환 - 2745 
 
-[문제 링크](https://www.acmicpc.net/problem/2745) 
+[문제 링크](https://acmicpc.net/problem/2745) 
 
 ### 성능 요약
 
@@ -8,7 +8,7 @@
 
 ### 분류
 
-구현, 문자열, 수학
+구현, 수학, 문자열
 
 ### 제출 일자
 

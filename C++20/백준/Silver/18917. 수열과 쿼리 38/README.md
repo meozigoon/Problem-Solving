@@ -1,6 +1,6 @@
 # [Silver III] 수열과 쿼리 38 - 18917 
 
-[문제 링크](https://www.acmicpc.net/problem/18917) 
+[문제 링크](https://acmicpc.net/problem/18917) 
 
 ### 성능 요약
 
@@ -8,7 +8,7 @@
 
 ### 분류
 
-수학, 구현
+구현, 수학
 
 ### 제출 일자
 

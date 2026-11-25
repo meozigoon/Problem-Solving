@@ -1,6 +1,6 @@
 # [Silver III] 수열과 시프트 쿼리 - 17499 
 
-[문제 링크](https://www.acmicpc.net/problem/17499) 
+[문제 링크](https://acmicpc.net/problem/17499) 
 
 ### 성능 요약
 
@@ -8,7 +8,7 @@
 
 ### 분류
 
-수학, 구현
+구현, 수학
 
 ### 제출 일자
 
